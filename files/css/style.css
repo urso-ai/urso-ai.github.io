@@ -1,0 +1,10 @@
+body {
+    background-color: Gainsboro;
+  }
+
+  .container{       
+    margin-top: 5%; 
+    text-align-last: center; 
+    text-align: center; 
+    font-family: Verdana, Geneva, sans-serif; font-size: 40px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px;
+} 
